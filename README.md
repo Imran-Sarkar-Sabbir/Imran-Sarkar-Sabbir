@@ -49,9 +49,20 @@
   </ul>
 </p>
 
+<h3 align="left">Cyber Security and safty</h3>
+<p align="left">
+  <ul> 
+    <li>SQL injection and request payload</li>
+    <li>Cross Site Scripting (XSS)</li>
+    <li>DoS, DDoS, Slow loris DDoS</li>
+    <li>Keylogger, Rat</li>
+  </ul>
+</p>
+
 <h3 align="left">Networking</h3>
 <p align="left">
   <ul>
+    <li>Network protocols (TCP, UDP, ICMP, IGMP)</li>
     <li>Networking OSL Model</li>
     <li>NAT(Network Address Translation) and PAT(Port Address Translation)</li>
     <li>Net Traversal, STUN & TURN</li>
