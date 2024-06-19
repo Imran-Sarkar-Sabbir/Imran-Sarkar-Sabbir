@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
-<h3 align="center">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
+<h3 align="">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
+
+<br/>
+<br/>
 
 <p><img align="right" src="https://github.com/Imran-Sarkar-Sabbir/Imran-Sarkar-Sabbir/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
 
