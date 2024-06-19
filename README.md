@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
 <h3 align="center">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
 
+<p><img align="right" src="https://github.com/Imran-Sarkar-Sabbir/Imran-Sarkar-Sabbir/blob/main/animation_500_kxa883sd.gif" alt="animation" /></p>
+
+
 <div>
 <a href="https://gitlab.com/Imran_Sarkar" target="_blank">
   <img
@@ -128,4 +131,3 @@
   <a href="https://www.linkedin.com/in/imran-sarkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raju-deb-nath-a71813153" height="30" width="40" /></a>
   <a href="https://www.facebook.com/imransarkar.sabbir.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raju.devnath.758" height="30" width="40" /></a>
 </p>
-
