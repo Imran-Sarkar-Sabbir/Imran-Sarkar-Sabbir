@@ -41,9 +41,28 @@
   <a href="https://redis.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/440px-Redis_Logo.svg.png" alt="mysql" height="40"/> </a> 
 </p>
 
+<h3 align="left">Cryptography</h3>
+<p align="left">
+  <ul>
+    <li>Symmetric  encryption</li>
+    <li>Asymmetric encryption (RSA, Diffie-Hellman, and Elliptic Curve Cryptography)</li>
+  </ul>
+</p>
+
+<h3 align="left">Networking</h3>
+<p align="left">
+  <ul>
+    <li>Networking OSL Model</li>
+    <li>NAT(Network Address Translation) and PAT(Port Address Translation)</li>
+    <li>Net Traversal, STUN & TURN</li>
+    <li>Peer 2 Peer networking</li>
+    <li>Networking security</li>
+  </ul>
+</p>
+
 <h3 align="left">Algorithms and Data Structures</h3>
 <h6>Algorithms</h6>
-<ol>
+<ul>
   <li>Searching</li>
   <li>Sorting (merge sort, quick, insertion, bubble sort, time sort, counting sort, radix sort, etc..)</li>
   <li>Divide and conquer (merge sort, rod cutting, etc..)</li>
@@ -51,10 +70,10 @@
   <li>Grady algorithm</li>
   <li>Backtracking</li>
   <li>Multi threading solution</li>
-</ol>
+</ul>
 
 <h6>Data Structures</h6>
-<ol>
+<ul>
   <li>Array, List, Linked List</li>
   <li>Stack, Queue</li>
   <li>Heap, Prioraty Queue</li>
@@ -62,6 +81,6 @@
   <li>Binary tree, Binary Search tree</li>
   <li>Balanced Binary Tree, AVL tree, Red Black Tree</li>
   <li>B tree, B+ tree</li>
-</ol>
+</ul>
 
 
