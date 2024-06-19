@@ -49,16 +49,6 @@
   </ul>
 </p>
 
-<h3 align="left">Cyber Security and safty</h3>
-<p align="left">
-  <ul> 
-    <li>SQL injection and request payload</li>
-    <li>Cross Site Scripting (XSS)</li>
-    <li>DoS, DDoS, Slow loris DDoS</li>
-    <li>Keylogger, Rat</li>
-  </ul>
-</p>
-
 <h3 align="left">Networking</h3>
 <p align="left">
   <ul>
@@ -71,6 +61,19 @@
   </ul>
 </p>
 
+<h3 align="left">Cyber Security and safty</h3>
+<p align="left">
+  <ul> 
+    <li>SQL injection and request payload</li>
+    <li>Invalid request injection</li>
+    <li>Cross Site Scripting (XSS)</li>
+    <li>Cross Site Request Forgery (CSRF)</li>
+    <li>Regular expression Denial of Service (ReDoS)</li>
+    <li>DoS, DDoS, Slow loris DDoS</li>
+    <li>Keylogger, Rat, etc..</li>
+  </ul>
+</p>
+
 <h3 align="left">Algorithms and Data Structures</h3>
 <h6>Algorithms</h6>
 <ul>
@@ -80,7 +83,7 @@
   <li>Dynamic Programming</li>
   <li>Grady algorithm</li>
   <li>Backtracking</li>
-  <li>Multi threading solution</li>
+  <li>Multi threading solution, etc..</li>
 </ul>
 
 <h6>Data Structures</h6>
@@ -91,7 +94,7 @@
   <li>Graph and tree</li>
   <li>Binary tree, Binary Search tree</li>
   <li>Balanced Binary Tree, AVL tree, Red Black Tree</li>
-  <li>B tree, B+ tree</li>
+  <li>B tree, B+ tree, etc..</li>
 </ul>
 
 
