@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
 <h3 align="center">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
 
+<a href="https://gitlab.com/Imran_Sarkar" target="_blank">
+  <img
+    alt="gitlab"
+    src="https://img.shields.io/badge/Visit-My_Gitlab-gold" 
+    height="50" />
+</a>
+
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a>
@@ -46,6 +53,7 @@
   <ul>
     <li>Symmetric  encryption</li>
     <li>Asymmetric encryption (RSA, Diffie-Hellman, and Elliptic Curve Cryptography)</li>
+    <li>Hash (SHA-256)</li>
   </ul>
 </p>
 
