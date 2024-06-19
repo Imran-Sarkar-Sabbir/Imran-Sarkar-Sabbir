@@ -36,7 +36,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://mui.com/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="bootstrap" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/33663932?s=200&v=4" alt="miu" width="40" height="40"/>
   </a>  
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
@@ -47,14 +47,22 @@
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nest" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="nest" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Database</h3>
 <p align="left"> 
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://redis.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/440px-Redis_Logo.svg.png" alt="mysql" height="40"/> </a> 
+  <a href="https://redis.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/440px-Redis_Logo.svg.png" alt="redis" height="40"/> </a> 
+</p>
+
+<h3 align="left">Others</h3>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="git" height="40"/> </a> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg/618px-JetBrains_IntelliJ_IDEA_Product_Logo.svg.png" alt="jetbrains" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/New_Firebase_logo.svg/440px-New_Firebase_logo.svg.png" alt="firebase" height="40"/> </a> 
+  <a href="https://webrtc.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/webrtc/images/lockup.svg" alt="webrtc" height="40"/> </a> 
 </p>
 
 <h3 align="left">Cryptography</h3>
@@ -82,7 +90,7 @@
 <p align="left">
   <ul> 
     <li>SQL injection and request payload</li>
-    <li>Invalid request injection</li>
+    <li>Malicious payload injection</li>
     <li>Cross Site Scripting (XSS)</li>
     <li>Cross Site Request Forgery (CSRF)</li>
     <li>Regular expression Denial of Service (ReDoS)</li>
