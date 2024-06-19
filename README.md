@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
-<h3 align="center">I am Imran Sarkar from Dhaka, Bangladesh. I am a self-taught software engineer. I have been coding since 2016 and have more than 2 years of professional experience.</h3>
+<h3 align="center">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
