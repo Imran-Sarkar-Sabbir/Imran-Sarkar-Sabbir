@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
+![image](https://github.com/user-attachments/assets/dd12c1b6-2e90-4d71-aefc-682e054962dc)<h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
 <h3 align="">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
 
 <br/>
@@ -37,7 +37,7 @@
 <h3 align="left">Front End Development:</h3>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://camo.githubusercontent.com/9771a2d4a7366d3c6d4793e17104eba9e88f0aec82f7165bfe6871455c26cb2c/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="next js" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="next js" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
