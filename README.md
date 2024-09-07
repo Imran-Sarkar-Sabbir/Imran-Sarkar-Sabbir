@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dd12c1b6-2e90-4d71-aefc-682e054962dc)<h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
+<h1 align="center">Hi 👋, I'm Imran Sarkar</h1>
 <h3 align="">I'm Imran Sarkar, located in Dhaka, Bangladesh, and I am a self-taught software engineer passionate about coding since 2016. With over two years of professional experience, I have developed proficiency across various domains of software development.</h3>
 
 <br/>
