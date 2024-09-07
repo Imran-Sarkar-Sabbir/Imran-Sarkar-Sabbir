@@ -15,7 +15,7 @@
     height="40" />
 </a>
 
-<a align="right" href="https://gitlab.com/Imran_Sarkar" target="_blank">
+<a align="right" href="https://imransarkar.vercel.app/" target="_blank">
   <img
     alt="portfolio"
     src="https://img.shields.io/badge/Visit-My_Portfolio-green" 
